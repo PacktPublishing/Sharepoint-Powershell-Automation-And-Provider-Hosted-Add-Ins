@@ -1,0 +1,551 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp2vEZAvD6EKXuEQz1RsBZQAAAAACAAAAAAAQZgAAAAEAACAAAADaNvUoWVcadLg367Tkd+lRckgY9Pk3AajSx8ZgbbryaAAAAAAOgAAAAAIAACAAAADmHceE7Y9P2ixpzMdzE9IpYiur0zg1jemto5J+ZFHChYAAAADtuxST/yd+07X0uSCPomCQPPwmcCWY3fne5jusLtKfHLSaGXTZQtc3sb9+hHbZ8Kqdc3cpyBQmGGErOmiOWNgdZW2eSMFB1AfOAbZXvyD+HrO8bcpdrWI9M3CUeaE37H05Rdeykh4akgyMriJcCaKCzZLAXYiEwkozxXGs05AKBkAAAADbZP2xtGDbBhr6P5n83rY2Uq84pastGk9ZtKHDHnHTdrU/YuLqJOGh8nDLj9qEPCyBgrxWpKB7WyxRZNGFhpDx</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-sn1-093.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/AngleSharp.dll">
+      <publishTime>10/07/2016 23:44:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/AngleSharp.xml">
+      <publishTime>10/07/2016 23:44:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/de/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/de/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/de/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/de/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/EntityFramework.dll">
+      <publishTime>03/11/2015 16:43:42</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/EntityFramework.SqlServer.dll">
+      <publishTime>03/11/2015 16:43:42</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/EntityFramework.SqlServer.xml">
+      <publishTime>03/11/2015 16:43:42</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/EntityFramework.xml">
+      <publishTime>03/11/2015 16:43:42</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/es/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/es/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/es/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/es/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/FeedbackTracker.Common.dll">
+      <publishTime>06/13/2017 08:43:42</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/FeedbackTracker.Common.pdb">
+      <publishTime>06/13/2017 08:43:42</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/FeedbackTracker.WebJob.exe">
+      <publishTime>06/13/2017 09:01:55</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/FeedbackTracker.WebJob.exe.config">
+      <publishTime>06/13/2017 09:01:48</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/FeedbackTracker.WebJob.pdb">
+      <publishTime>06/13/2017 09:01:55</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/fr/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/fr/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/fr/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/fr/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/it/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/it/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/it/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/it/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/ja/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/ja/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/ja/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/ja/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/ko/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/ko/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/ko/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/ko/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Azure.KeyVault.Core.dll">
+      <publishTime>12/07/2016 09:37:44</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Azure.WebJobs.dll">
+      <publishTime>02/23/2017 11:12:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Azure.WebJobs.Host.dll">
+      <publishTime>02/23/2017 11:12:34</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Azure.WebJobs.Host.xml">
+      <publishTime>02/23/2017 11:12:34</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Azure.WebJobs.xml">
+      <publishTime>02/23/2017 11:12:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Data.Edm.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Data.Edm.xml">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Data.OData.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Data.OData.xml">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Data.Services.Client.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Data.Services.Client.xml">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>04/27/2017 18:53:26</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Extensions.Logging.Abstractions.xml">
+      <publishTime>04/27/2017 23:49:32</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.IdentityModel.dll">
+      <publishTime>07/26/2012 14:12:58</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.IdentityModel.Extensions.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Office.Client.Policy.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Online.SharePoint.Client.Tenant.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.SharePoint.Client.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.SharePoint.Client.DocumentManagement.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.SharePoint.Client.Publishing.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.SharePoint.Client.Runtime.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.SharePoint.Client.Search.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.SharePoint.Client.Taxonomy.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.SharePoint.Client.UserProfiles.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.SharePoint.Client.WorkflowServices.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/05/2016 04:55:32</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.WindowsAzure.Storage.dll">
+      <publishTime>06/06/2017 15:59:14</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.WindowsAzure.Storage.pdb">
+      <publishTime>06/06/2017 15:59:14</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Microsoft.WindowsAzure.Storage.xml">
+      <publishTime>06/06/2017 15:59:14</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Newtonsoft.Json.dll">
+      <publishTime>04/02/2017 17:46:32</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/Newtonsoft.Json.xml">
+      <publishTime>04/02/2017 17:46:32</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/OfficeDevPnP.Core.dll">
+      <publishTime>06/09/2017 11:31:08</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/ru/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/ru/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/ru/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:20</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/ru/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.AppContext.dll">
+      <publishTime>11/05/2016 04:55:34</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.Console.dll">
+      <publishTime>11/05/2016 04:55:48</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.Globalization.Calendars.dll">
+      <publishTime>11/05/2016 04:56:02</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/05/2016 04:56:04</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.IO.FileSystem.dll">
+      <publishTime>11/05/2016 04:56:08</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/05/2016 04:56:08</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 04:02:42</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.Net.Http.Formatting.xml">
+      <publishTime>01/28/2015 04:02:42</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.Net.Sockets.dll">
+      <publishTime>11/05/2016 04:56:34</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/05/2016 04:57:00</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/05/2016 04:57:14</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/05/2016 04:57:08</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/05/2016 04:57:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/05/2016 04:57:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.Spatial.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.Spatial.xml">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.Web.Http.dll">
+      <publishTime>01/28/2015 04:02:54</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/System.Web.Http.xml">
+      <publishTime>01/28/2015 04:02:54</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/zh-Hans/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/zh-Hans/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/zh-Hans/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/zh-Hans/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/zh-Hant/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/zh-Hant/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/zh-Hant/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="app_data/jobs/continuous/FeedbackTracker-WebJob/zh-Hant/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/AngleSharp.dll">
+      <publishTime>10/07/2016 23:44:18</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/de/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/11/2015 16:43:42</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/11/2015 16:43:42</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/es/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/FeedbackTracker.Common.dll">
+      <publishTime>06/13/2017 08:43:42</publishTime>
+    </File>
+    <File Include="bin/FeedbackTracker.Common.pdb">
+      <publishTime>06/13/2017 08:43:42</publishTime>
+    </File>
+    <File Include="bin/FeedbackTracker.WebJob.exe">
+      <publishTime>06/13/2017 09:01:55</publishTime>
+    </File>
+    <File Include="bin/FeedbackTracker.WebJob.pdb">
+      <publishTime>06/13/2017 09:01:55</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/fr/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/it/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/ja/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/ko/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.KeyVault.Core.dll">
+      <publishTime>12/07/2016 09:37:44</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.WebJobs.dll">
+      <publishTime>02/23/2017 11:12:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.WebJobs.Host.dll">
+      <publishTime>02/23/2017 11:12:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Edm.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.OData.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Services.Client.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>04/27/2017 18:53:26</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.dll">
+      <publishTime>07/26/2012 14:12:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Extensions.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Office.Client.Policy.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Online.SharePoint.Client.Tenant.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.DocumentManagement.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.Publishing.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.Runtime.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.Search.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.Taxonomy.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.UserProfiles.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.SharePoint.Client.WorkflowServices.dll">
+      <publishTime>05/26/2017 13:11:04</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/05/2016 04:55:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.dll">
+      <publishTime>06/06/2017 15:59:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.pdb">
+      <publishTime>06/06/2017 15:59:14</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/02/2017 17:46:32</publishTime>
+    </File>
+    <File Include="bin/OfficeDevPnP.Core.dll">
+      <publishTime>06/09/2017 11:31:08</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:20</publishTime>
+    </File>
+    <File Include="bin/ru/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/System.AppContext.dll">
+      <publishTime>11/05/2016 04:55:34</publishTime>
+    </File>
+    <File Include="bin/System.Console.dll">
+      <publishTime>11/05/2016 04:55:48</publishTime>
+    </File>
+    <File Include="bin/System.Globalization.Calendars.dll">
+      <publishTime>11/05/2016 04:56:02</publishTime>
+    </File>
+    <File Include="bin/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/05/2016 04:56:04</publishTime>
+    </File>
+    <File Include="bin/System.IO.FileSystem.dll">
+      <publishTime>11/05/2016 04:56:08</publishTime>
+    </File>
+    <File Include="bin/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/05/2016 04:56:08</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 04:02:42</publishTime>
+    </File>
+    <File Include="bin/System.Net.Sockets.dll">
+      <publishTime>11/05/2016 04:56:34</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/05/2016 04:57:00</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/05/2016 04:57:14</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/05/2016 04:57:08</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/05/2016 04:57:18</publishTime>
+    </File>
+    <File Include="bin/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/05/2016 04:57:18</publishTime>
+    </File>
+    <File Include="bin/System.Spatial.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/28/2015 04:02:54</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Edm.resources.dll">
+      <publishTime>02/01/2017 14:00:38</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.OData.resources.dll">
+      <publishTime>02/01/2017 14:00:22</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>02/01/2017 14:00:18</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/System.Spatial.resources.dll">
+      <publishTime>02/01/2017 14:00:14</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

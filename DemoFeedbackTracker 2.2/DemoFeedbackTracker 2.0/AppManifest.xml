@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest"
+     Name="DemoFeedbackTracker22"
+     ProductID="{96f78a28-74c9-4af0-bf21-f8d2eab6b684}"
+     Version="2.2.0.2"
+     SharePointMinVersion="16.0.0.0"
+>
+  <Properties>
+    <Title>DemoFeedbackTracker 2.2</Title>
+    <StartPage>~remoteAppUrl/Pages/Default.aspx?{StandardTokens}</StartPage>
+  </Properties>
+
+  <AppPrincipal>
+    <RemoteWebApplication ClientId="513c3cb6-7cc3-46da-84ae-e8942bf0b2b1" />
+    
+  </AppPrincipal>
+  <AppPermissionRequests AllowAppOnlyPolicy="true">
+    <AppPermissionRequest Scope="http://sharepoint/content/sitecollection" Right="FullControl" />
+  </AppPermissionRequests>
+  <RemoteEndpoints>
+    <RemoteEndpoint Url="https://pnpwebhooksdemo.azurewebsites.net/api/webhooks" />
+  </RemoteEndpoints>
+</App>
